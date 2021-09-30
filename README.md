@@ -1,2 +1,2 @@
 # pythonproject1
-pyton icin kullanilacak
+Contains Python Basic Projects
