@@ -1,2 +1,2 @@
-# pythonproject1
+# Python Programming
 Contains Python Basic Projects
